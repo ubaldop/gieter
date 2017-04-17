@@ -1,8 +1,6 @@
 
 ![GIeTer logo](/gieter.png)  
 
-
-
 # GIeTer
 
 a GIT watering can.

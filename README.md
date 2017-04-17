@@ -1,6 +1,7 @@
-GIeTer
-===
+![GIeTer logo](/gieter.png)
 
+GIeTer 
+===
 a GIT watering can.
 
 _Homage to Pieter Hintjens_

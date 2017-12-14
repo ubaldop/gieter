@@ -1,6 +1,8 @@
 
-![GIeTer logo](/gieter.png)  
-
+<p align="center">
+  <img src="https://github.com/P3trur0/gieter/blob/master/gieter.png?raw=true" alt="GIeTer logo"/>
+</p>
+ 
 # GIeTer
 
 a GIT watering can.
